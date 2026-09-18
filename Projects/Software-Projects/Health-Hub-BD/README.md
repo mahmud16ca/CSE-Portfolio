@@ -178,3 +178,97 @@ Implemented security features:
 ---
 
 # System Architecture
+
+---
+
+# Database Modules
+
+Main database components:
+
+- Users
+- Patients
+- Doctors
+- Departments
+- Appointments
+- Queue Tokens
+- Consultations
+- Prescriptions
+- Laboratory
+- Billing
+- Payments
+- Feedback
+- Consent Records
+- Audit Logs
+
+---
+
+# Testing
+
+The system was tested with:
+
+- Authentication workflow
+- Appointment workflow
+- Smart queue workflow
+- Digital prescription workflow
+- Laboratory workflow
+- Billing workflow
+- Security validation
+
+Testing included multiple user roles and complete healthcare workflows.
+
+---
+
+# My Contribution
+
+I worked on:
+
+- System planning
+- Database design
+- Backend development
+- PHP module development
+- Authentication system
+- Role-based access control
+- Patient workflow design
+- Appointment and queue logic
+- Testing
+- Documentation
+- Deployment setup
+
+---
+
+# Skills Demonstrated
+
+- Full-stack web development
+- Database design
+- Backend programming
+- Authentication systems
+- Healthcare workflow design
+- Security implementation
+- Software documentation
+
+---
+
+# Future Improvements
+
+- Real SMS gateway integration
+- Real payment gateway integration
+- Cloud deployment
+- Multi-hospital support
+- Advanced healthcare interoperability
+- Production-level security testing
+
+---
+
+# Academic Information
+
+**Project Name:** Health-Hub~BD  
+**Project Type:** Integrated Design Project  
+**Technology:** PHP + MySQL + Bootstrap  
+**Version:** v3.0.2  
+**Institution:** Green University of Bangladesh
+
+---
+
+## GitHub Description
+
+A full-stack bilingual hospital management system developed using PHP, MySQL, and Bootstrap. Health-Hub~BD digitizes healthcare workflows including patient management, appointments, queue management, prescriptions, laboratory services, and billing.
