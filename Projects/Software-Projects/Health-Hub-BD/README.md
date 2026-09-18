@@ -178,7 +178,6 @@ Implemented security features:
 ---
 
 # System Architecture
-
           ↓
   User Browser
           ↓
