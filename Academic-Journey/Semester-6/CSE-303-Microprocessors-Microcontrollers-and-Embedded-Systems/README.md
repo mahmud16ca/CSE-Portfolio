@@ -1,23 +1,14 @@
+# Course Information
 
-# CSE-303 - Microprocessors-Microcontrollers-and-Embedded-Systems
+## Course Code:
+{CSE-XXX}
 
+## Course Name:
+{Course Name Here}
 
-## Academic Information
+---
 
-Semester:
-Semester-6
-
-
-Trimester:
-Fall-2025-251
-
-
-## Course Name
-
-Microprocessors-Microcontrollers-and-Embedded-Systems
-
-
-## Resources I Have
+## Resources I Have:
 
 1. Lab Works
 2. Screenshots
@@ -26,18 +17,15 @@ Microprocessors-Microcontrollers-and-Embedded-Systems
 5. Project Source Code
 6. Project Report
 
+---
 
-## Programming Language / Tools Used
+## Programming Language / Tools Used:
 
-{add-tools-here}
+- {add-tool-name-here}
 
+---
 
-## Project / Task Name
+## Project / Task Name:
 
-{add-p-name-here}
-
-
-## Learning Outcomes
-
-{add-learning-outcomes-here}
+- {add-p-name-here}
 

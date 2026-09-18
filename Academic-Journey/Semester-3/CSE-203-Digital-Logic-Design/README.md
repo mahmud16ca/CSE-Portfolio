@@ -1,23 +1,14 @@
+# Course Information
 
-# CSE-203 - Digital-Logic-Design
+## Course Code:
+{CSE-XXX}
 
+## Course Name:
+{Course Name Here}
 
-## Academic Information
+---
 
-Semester:
-Semester-3
-
-
-Trimester:
-Spring-2024-241
-
-
-## Course Name
-
-Digital-Logic-Design
-
-
-## Resources I Have
+## Resources I Have:
 
 1. Lab Works
 2. Screenshots
@@ -26,18 +17,15 @@ Digital-Logic-Design
 5. Project Source Code
 6. Project Report
 
+---
 
-## Programming Language / Tools Used
+## Programming Language / Tools Used:
 
-{add-tools-here}
+- {add-tool-name-here}
 
+---
 
-## Project / Task Name
+## Project / Task Name:
 
-{add-p-name-here}
-
-
-## Learning Outcomes
-
-{add-learning-outcomes-here}
+- {add-p-name-here}
 

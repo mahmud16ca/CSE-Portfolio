@@ -1,3 +1,11 @@
+#!/bin/bash
+
+find Academic-Journey -type d -name "Projects" | while read project_folder
+do
+
+course_folder=$(dirname "$project_folder")
+
+cat > "$course_folder/README.md" <<EOF
 # Course Information
 
 ## Course Code:
@@ -29,3 +37,8 @@
 
 - {add-p-name-here}
 
+EOF
+
+done
+
+echo "Course README files created successfully!"
