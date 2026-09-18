@@ -187,6 +187,7 @@ Implemented security features:
           ↓
   MySQL / MariaDB Database
 
+---
 
 # Database Modules
 
