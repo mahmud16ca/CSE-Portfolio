@@ -129,14 +129,23 @@ Implemented:
 ---
 
 # System Architecture
-        ↓
-    User Browser
-        ↓
-    HTML / CSS / JavaScript Interface
-        ↓
-    Python Web Server
-        ↓
-    Risk Assessment Engine
+User Browser
+
+    ↓
+
+HTML / CSS / JavaScript Interface
+
+    ↓
+
+Python Web Server
+
+    ↓
+
+Risk Assessment Engine
+
+    ↓
+
+SQLite Database
 
                 
 ---
@@ -153,6 +162,7 @@ The system was tested for:
 
 Testing Result:
 
+8/8 automated tests passed successfully
 ---
 
 # Deployment
