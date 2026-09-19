@@ -145,22 +145,22 @@ Each role has different access permissions.
 ---
 
 # Project Structure
-Health-Hub-BD-PHP-Version
 
-│
-├── admin
-├── auth
-├── doctor
-├── laboratory
-├── navigator
-├── patient
-├── receptionist
-├── assets
-├── css
-├── js
-├── uploads
-├── reports
-└── database
+    Health-Hub-BD-PHP-Version
+    │
+    ├── admin
+    ├── auth
+    ├── doctor
+    ├── laboratory
+    ├── navigator
+    ├── patient
+    ├── receptionist
+    ├── assets
+    ├── css
+    ├── js
+    ├── uploads
+    ├── reports
+    └── database
 
 ---
 
@@ -177,23 +177,20 @@ Implemented:
 ---
 
 # System Architecture
-User Browser
 
-    ↓
+    User Browser
 
-HTML / CSS / JavaScript Interface
+        ↓
+    HTML / CSS / JavaScript Interface
 
-    ↓
+        ↓
+    PHP Application Layer
 
-PHP Application Layer
+        ↓
+    MySQL Database
 
-    ↓
-
-MySQL Database
-
-    ↓
-
-Hospital Management Modules
+        ↓
+    Hospital Management Modules
 
 ---
 
