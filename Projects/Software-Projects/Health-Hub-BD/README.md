@@ -178,15 +178,24 @@ Implemented security features:
 ---
 
 # System Architecture
+User Browser
 
-          ↓
-    User Browser
-          ↓
-    Frontend Interface (HTML + CSS + JavaScript)
-          ↓
-    PHP Application Layer
-          ↓
-    MySQL / MariaDB Database
+  ↓
+
+Frontend Interface
+(HTML + CSS + JavaScript)
+
+  ↓
+
+PHP Application Layer
+
+  ↓
+
+MySQL / MariaDB Database
+
+  ↓
+
+Security Controls & Audit Logs
 
 ---
 
