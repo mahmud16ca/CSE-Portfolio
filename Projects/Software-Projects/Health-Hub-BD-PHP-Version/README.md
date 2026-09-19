@@ -146,21 +146,21 @@ Each role has different access permissions.
 
 # Project Structure
 
-Health-Hub-BD-PHP-Version
-│
-├── admin
-├── auth
-├── doctor
-├── laboratory
-├── navigator
-├── patient
-├── receptionist
-├── assets
-├── css
-├── js
-├── uploads
-├── reports
-└── database
+    Health-Hub-BD-PHP-Version
+    │
+    ├── admin
+    ├── auth
+    ├── doctor
+    ├── laboratory
+    ├── navigator
+    ├── patient
+    ├── receptionist
+    ├── assets
+    ├── css
+    ├── js
+    ├── uploads
+    ├── reports
+    └── database
 
 ---
 
