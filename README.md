@@ -12,13 +12,22 @@ This repository documents my academic coursework, laboratory works, programming 
 
 I am a Computer Science and Engineering student at **Green University of Bangladesh**, exploring software development through academic learning, practical projects, and hands-on experimentation.
 
-My journey covers programming, software engineering, databases, web applications, mobile development, cybersecurity, networking, and system-level concepts.
+My journey covers:
+
+- Software Development
+- Web Applications
+- Mobile Applications
+- Database Systems
+- Cybersecurity
+- Artificial Intelligence
+- Embedded Systems
+- Computer Architecture
 
 ---
 
 # 🎓 Academic Journey
 
-**Bachelor of Science in Computer Science and Engineering**
+## Bachelor of Science in Computer Science and Engineering
 
 My academic journey has progressed from programming fundamentals to designing and developing complete software applications.
 
@@ -41,30 +50,72 @@ Major areas covered:
 
 ## Programming Languages
 
+- Python
+- Java
+- C/C++
+- PHP
+- Dart
+- JavaScript
+
 ---
 
 ## Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL
+- REST API Concepts
 
 ---
 
 ## Mobile Development
 
+- Flutter
+- Dart
+- Android Development
+- Firebase
+
 ---
 
 ## Database Technologies
+
+- MySQL
+- SQLite
+- MariaDB
+- Firebase Firestore
+
+---
+
+## Cybersecurity
+
+- Risk Assessment
+- CVE/CVSS Analysis
+- Security Controls
+- Cryptography Concepts
+- Secure Authentication
 
 ---
 
 ## Tools & Platforms
 
+- Git & GitHub
+- Visual Studio Code
+- Android Studio
+- XAMPP
+- Firebase
+- Linux
+- Docker Basics
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏥 Health-Hub-BD
+## 🏥 Health-Hub~BD
 
-Healthcare management system focused on connecting patients, doctors, appointments, and medical records.
+A patient-centred hospital management platform designed to digitize healthcare workflows.
 
 ### Technologies
 
@@ -81,22 +132,84 @@ Healthcare management system focused on connecting patients, doctors, appointmen
 - Authentication
 - CRUD Operations
 - Database Management
-- Role-Based Features
+- Role-Based Access
 - Healthcare Workflow
+
+Repository:
+`Projects/Software-Projects/Health-Hub-BD`
 
 ---
 
-## 🔐 Cyber Insurance Risk Assessment System
+## 🩸 SaveOne - Blood Donation Matching App
 
-A cybersecurity-focused project for organizing security information and risk assessment processes.
+A Flutter mobile application connecting blood requesters with volunteer donors.
+
+### Technologies
+
+- Flutter
+- Dart
+- Firebase
+- Firestore
+- Location Services
 
 ### Concepts
 
-- Cybersecurity Assessment
+- Mobile Application Development
+- Location-Based Matching
+- Cloud Database
+- User Authentication
+
+Repository:
+`Projects/Mobile-Projects/SaveOne`
+
+---
+
+## 🔐 Cyber Insurance Risk Assessment System (CIRAS)
+
+A cybersecurity risk assessment platform for evaluating security posture and calculating cyber risk.
+
+### Technologies
+
+- Python
+- SQLite
+- HTML
+- CSS
+- JavaScript
+
+### Concepts
+
+- Cyber Risk Assessment
 - CVE/CVSS
 - Threat Analysis
 - Risk Calculation
 - Security Controls
+
+Repository:
+`Projects/Research-Projects/CIRAS`
+
+---
+
+## 🤖 GUB OpenAI Platform
+
+An AI assistant web platform integrating AI capabilities into a full-stack web application.
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- AI API
+
+### Concepts
+
+- AI Integration
+- Web Application Development
+- Database Management
+
+Repository:
+`Projects/Web-Projects/GUB-OpenAI-Platform`
 
 ---
 
@@ -109,13 +222,13 @@ Database-oriented application developed around food ordering and management.
 - Database Design
 - CRUD Operations
 - Order Management
-- Relational Database
+- Data Processing
 
 ---
 
-## 🧠 Cache Memory Access Time Simulator
+## 💾 Cache Memory Access Time Simulator
 
-A computer architecture simulation project.
+Computer architecture simulation project.
 
 ### Concepts
 
@@ -128,7 +241,7 @@ A computer architecture simulation project.
 
 ## ⚙️ CPU Pipeline Simulator
 
-A project focused on processor execution and pipeline concepts.
+Processor execution simulation project.
 
 ### Concepts
 
@@ -151,7 +264,25 @@ Embedded system project using hardware interaction and automation concepts.
 
 ---
 
-# 📚 Academic Repository Structure
+# 📂 Repository Structure
+
+    CSE-Portfolio
+    │
+    ├── Academic-Journey
+    │
+    ├── Projects
+    │ │
+    │ ├── Software-Projects
+    │ ├── Mobile-Projects
+    │ ├── Research-Projects
+    │ ├── Web-Projects
+    │ └── Embedded-Projects
+    │
+    ├── Documentation
+    │
+    ├── Programming
+    │
+    └── Certificates
 
 ---
 
@@ -175,6 +306,20 @@ Throughout my CSE journey, I have explored:
 ---
 
 # 📈 Learning Progression
+
+    Programming Fundamentals
+    ↓
+    Object-Oriented Programming
+    ↓
+    Database & Web Development
+    ↓
+    Mobile Application Development
+    ↓
+    Software Engineering Projects
+    ↓
+    Cybersecurity & System Design
+    ↓
+    Advanced Development Practices
 
 ---
 
@@ -209,14 +354,16 @@ Currently improving my skills in:
 # 📫 Connect With Me
 
 GitHub:
+
 https://github.com/mahmud16ca
 
 LinkedIn:
+
 https://www.linkedin.com/in/chowdhury-apon-497016280
 
 ---
 
-## Philosophy
+# Philosophy
 
 > Learn → Build → Debug → Improve → Repeat
 
