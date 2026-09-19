@@ -104,13 +104,18 @@ Features:
 # System Architecture
 
 User Browser
-  ↓
-HTML / CSS / JavaScript Interface
-  ↓
-PHP Application Logic
-  ↓
-MySQL Database
 
+  ↓
+
+HTML / CSS / JavaScript Interface
+
+  ↓
+
+PHP Application Logic
+
+  ↓
+
+MySQL Database
 
 ---
 
